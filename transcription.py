@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "API-keywords"
+openai.api_key = "API-key"
 
 # video_path = "test.MP4"
 # audio_path = "video_audio.mp3"

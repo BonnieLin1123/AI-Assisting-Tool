@@ -5,7 +5,6 @@ import os
 import transcription
 
 app = Flask(__name__)
-openai.api_key = "API-keywords"
 
 def download_audio(youtube_url):
     ydl_opts = {
